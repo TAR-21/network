@@ -1,4 +1,4 @@
-# 2025 Enterprise Report on Red Hat OpenShift Network Observability: A Strategic Analysis of Visualization and Security Solutions
+# A Strategic Analysis of Visualization and Security Solutions
 
 ## Chapter 1: Executive Summary
 
